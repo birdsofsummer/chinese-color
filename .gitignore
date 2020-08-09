@@ -22,4 +22,3 @@ tmp/*
 /.serverless/
 *.env
 *.pem
-frontend1/
